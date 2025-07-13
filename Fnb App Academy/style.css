@@ -1,0 +1,29 @@
+h1{
+    color: red;
+    font-family:monospace;
+}
+
+p{
+    color:blue;
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+    list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    background-color:deepskyblue;
+}
+
+#menu-bar a:hover{
+    background-color:blueviolet;
+    color:#ffffff;
+    font-family:Helvetica, sans-serif;
+    padding: 5px;
+}
